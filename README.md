@@ -8,7 +8,7 @@
 
 ## 1. Fashion Clothing Products Dashboard
 
-![Дашборд Fashion Clothing Products](images/Дашборд dataset - Fashion Clothing Products Dataset.jpeg)
+![Дашборд Fashion Clothing Products](images/Fashion_Clothing_Products_Dataset.jpeg)
 
 **Используемый датасет:** Fashion Clothing Products Dataset
 
@@ -26,7 +26,7 @@
 
 ## 2. Fashion Products Dashboard
 
-![Дашборд Fashion Products](images/Дашборд dataset - Fashion Products.jpeg)
+![Дашборд Fashion Products](images/Fashion_Products.jpeg)
 
 **Используемый датасет:** Fashion Products
 
